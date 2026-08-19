@@ -1,0 +1,313 @@
+{
+  "destinations": [
+    {
+      "id": "rameswaram",
+      "name": "Rameswaram",
+      "state": "Tamil Nadu",
+      "image": "http://localhost:5000/uploads/1783408524397-images-6.jpg",
+      "description": "Walk the sacred corridors of Rameswaram and stay close to the Ramanathaswamy Temple."
+    },
+    {
+      "id": "madurai",
+      "name": "Madurai",
+      "state": "Tamil Nadu",
+      "image": "http://localhost:5000/uploads/1783408451470-images-5.jpg",
+      "description": "Experience the grandeur of Meenakshi Amman Temple with comfortable stays."
+    },
+    {
+      "id": "tirupati",
+      "name": "Tirupati",
+      "state": "Andhra Pradesh",
+      "image": "http://localhost:5000/uploads/1783407474383-images-2.jpg",
+      "description": "Find peaceful stays near Tirumala with easy darshan access."
+    },
+    {
+      "id": "Kodaikanal",
+      "name": "Kodaikanal",
+      "state": "Tamilnadu",
+      "image": "http://localhost:5000/uploads/1783406521555-images.jpg",
+      "description": "Kodaikanal Hill View Resort – Nature’s Perfect Escape"
+    },
+    {
+      "id": "Ooty",
+      "name": "ooty",
+      "state": "Tamil nadu",
+      "image": "http://localhost:5000/uploads/1783406745265-images-1.jpg",
+      "description": "Ooty Nature Resort – A Refreshing Escape in the Queen of Hills"
+    }
+  ],
+  "properties": [
+    {
+      "id": "sri-murugan-homestay",
+      "name": "Sri Murugan Home Stay",
+      "location": "Rameswaram, Tamil Nadu",
+      "destinationId": "rameswaram",
+      "type": "Homestay",
+      "price": 2100,
+      "rating": 4.6,
+      "reviews": 128,
+      "popular": true,
+      "amenities": [
+        "WiFi",
+        "Parking",
+        "AC"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "description": "A warm family homestay minutes from Ramanathaswamy Temple.",
+      "highlights": [
+        "Walkable to temple",
+        "Early check-in",
+        "Family rooms"
+      ]
+    },
+    {
+      "id": "meenakshi-retreat",
+      "name": "Meenakshi Retreat",
+      "location": "Madurai, Tamil Nadu",
+      "destinationId": "madurai",
+      "type": "Hotel",
+      "price": 2850,
+      "rating": 4.8,
+      "reviews": 214,
+      "popular": true,
+      "amenities": [
+        "WiFi",
+        "Parking",
+        "AC"
+      ],
+      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "description": "Premium rooms near Meenakshi Amman Temple with rooftop views.",
+      "highlights": [
+        "5 min drive to temple",
+        "Rooftop dining"
+      ]
+    },
+    {
+      "id": "323",
+      "name": "kodai resort",
+      "location": "Kodaikanal,Tamilnadu",
+      "destinationId": "Kodaikanal",
+      "type": "Homestay",
+      "price": 342,
+      "rating": 4.5,
+      "reviews": 0,
+      "popular": true,
+      "amenities": [
+        "WiFi",
+        "Parking",
+        "AC"
+      ],
+      "image": "http://localhost:5000/uploads/1783414702542-images-8.jpg",
+      "images": [
+        "http://localhost:5000/uploads/1783414708171-photo-1520250497591-112f2f40a3f4.avif"
+      ],
+      "description": "Kodaikanal Hill View Resort – Nature’s Perfect Escape",
+      "highlights": [
+        "Walkable to temple",
+        "Early check-in",
+        "Family rooms"
+      ]
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": "rameswaram-temple-guide",
+      "title": "Complete Guide to Rameswaram Temple Visit",
+      "excerpt": "Everything you need to know about darshan timings and where to stay.",
+      "author": "Aayushi Goyal",
+      "readTime": "12 mins read",
+      "category": "Travel Tips",
+      "date": "June 28, 2026",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "madurai-meenakshi-best-time",
+      "title": "Best Time to Visit Madurai Meenakshi Temple",
+      "excerpt": "Plan your spiritual journey around festivals and crowd patterns.",
+      "author": "Rajesh Kumar",
+      "readTime": "10 mins read",
+      "category": "Pilgrimage",
+      "date": "June 25, 2026",
+      "image": "http://localhost:5000/uploads/1783407518178-images-3.jpg"
+    },
+    {
+      "id": "south-india-pilgrimage-route",
+      "title": "South India Pilgrimage Route Planning",
+      "excerpt": "Connect Rameswaram, Madurai, Kanchipuram, and Tirupati in one journey.",
+      "author": "Priya Sharma",
+      "readTime": "18 mins read",
+      "category": "Pilgrimage Routes",
+      "date": "June 22, 2026",
+      "image": "https://images.unsplash.com/photo-1609137144818-7fd85d3f3f3e?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "Best visit Thiruchendure Temple",
+      "title": "Best Time to Visit Thiruchendur Temple",
+      "excerpt": "\"O Lord Muruga, Commander of Devasena, who dwells in the sacred city of Senthil (Thiruchendur);\nO Kanda, O Kadamba, O Radiant Bearer of the Divine Spear;\n",
+      "author": "Hariharan",
+      "readTime": "10mins",
+      "category": "Divine",
+      "date": "10/12/2006",
+      "image": "http://localhost:5000/uploads/1783407734370-images-4.jpg"
+    }
+  ],
+  "pageContent": {
+    "home": {
+      "heroTitle": "Find Your Perfect Stay,",
+      "heroHighlight": "Anywhere in India",
+      "heroSubtitle": "Book Hotels • Homestays • Temple Stays • Holiday Homes Across India",
+      "heroImage": "http://localhost:5000/uploads/1783414619830-photo-1520250497591-112f2f40a3f4.avif",
+      "aboutTitle": "Temple-Town Hospitality You Can Trust",
+      "aboutText": [
+        "aalaGo connects travellers with curated stays near India's most sacred destinations.",
+        "We partner with property owners to raise hospitality standards across temple towns."
+      ],
+      "aboutImage": "http://localhost:5000/uploads/1783411314422-photo-1520250497591-112f2f40a3f4.avif",
+      "newsletterTitle": "Begin Your Spiritual Journey Today",
+      "newsletterText": "Get temple-town openings, stay standards, and route ideas in your inbox.",
+      "whyChooseUs": [
+        {
+          "title": "Best Price Guarantee",
+          "copy": "Enjoy competitive prices with exclusive member discounts."
+        },
+        {
+          "title": "Verified Properties",
+          "copy": "Every property is carefully verified for quality and comfort."
+        },
+        {
+          "title": "Instant Confirmation",
+          "copy": "Receive instant booking confirmation."
+        },
+        {
+          "title": "Secure Payments",
+          "copy": "100% secure online payment gateway."
+        },
+        {
+          "title": "24x7 Customer Support",
+          "copy": "Our team is always ready to help."
+        },
+        {
+          "title": "Trusted by Thousands of Travelers",
+          "copy": "Hotels, Homestays, Resorts, Villas & Temple Stays."
+        }
+      ],
+      "stayTypes": [
+        "Hotels",
+        "Homestays",
+        "Resorts",
+        "Farm Stays",
+        "Serviced Apartments",
+        "Dormitories",
+        "Temple Stays",
+        "Holiday Villas"
+      ],
+      "popularDestinations": [
+        "Tiruchendur",
+        "Madurai",
+        "Kanyakumari",
+        "Courtallam",
+        "Rameswaram",
+        "Velankanni",
+        "Tirunelveli",
+        "Chennai",
+        "Ooty",
+        "Kodaikanal",
+        "Yercaud",
+        "Coimbatore",
+        "Bengaluru",
+        "Mysuru",
+        "Hyderabad"
+      ],
+      "templeTourism": {
+        "title": "Temple Tourism",
+        "subtitle": "Stay Near India's Most Sacred Temples",
+        "copy": "Book accommodation close to famous pilgrimage destinations.",
+        "temples": [
+          "Tiruchendur Murugan Temple",
+          "Madurai Meenakshi Temple",
+          "Rameswaram Ramanathaswamy Temple",
+          "Kanyakumari Bhagavathy Temple",
+          "Palani Murugan Temple",
+          "Velankanni Basilica",
+          "Sabarimala",
+          "Tirupati"
+        ],
+        "tagline": "Comfortable • Affordable • Family Friendly"
+      },
+      "testimonials": [
+        {
+          "name": "Priya Sharma",
+          "location": "Chennai",
+          "text": "Our Rameswaram stay was perfectly located near the temple. Early check-in made our pilgrimage so much easier.",
+          "rating": 5
+        },
+        {
+          "name": "Rajesh Kumar",
+          "location": "Bangalore",
+          "text": "aalaGo helped us find a family-friendly stay in Tirupati with great cleanliness and local hospitality.",
+          "rating": 5
+        },
+        {
+          "name": "Anitha Menon",
+          "location": "Kochi",
+          "text": "The Madurai property exceeded expectations. Trusted standards and helpful staff throughout our trip.",
+          "rating": 5
+        }
+      ],
+      "heroKicker": "AalaGO Book Direct. Save More. Travel Better"
+    },
+    "about": {
+      "title": "Built for Movement, Safe Arrival, and Temple-Town Shelter",
+      "subtitle": "About Aala Go",
+      "paragraphs": [
+        "aalaGo is a temple-town hospitality brand that helps travellers find reliable stays near sacred destinations.",
+        "Our wing mark represents movement and safe arrival, while the inner arch suggests shelter and temple-town relevance."
+      ],
+      "mission": "To make sacred travel easier by connecting pilgrims with trusted temple-town stays.",
+      "vision": "To become India's most trusted temple-town hospitality network.",
+      "stats": [
+        {
+          "value": "500+",
+          "label": "Curated Properties"
+        },
+        {
+          "value": "50+",
+          "label": "Destinations"
+        },
+        {
+          "value": "10K+",
+          "label": "Happy Travelers"
+        },
+        {
+          "value": "100%",
+          "label": "Trusted Stays"
+        }
+      ],
+      "galleryImages": [
+        "http://localhost:5000/uploads/1783421524968-photo-1520250497591-112f2f40a3f4.avif",
+        "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1600&q=80"
+      ]
+    },
+    "banners": {
+      "destinations": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1600&q=80",
+      "properties": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1600&q=80",
+      "about": "http://localhost:5000/uploads/1783422951151-photo-1520250497591-112f2f40a3f4.avif",
+      "blog": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1600&q=80",
+      "contact": "https://images.unsplash.com/photo-1518005020951-eccb494ad742?auto=format&fit=crop&w=1600&q=80",
+      "legal": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1600&q=80"
+    }
+  },
+  "admin": {
+    "email": "hari@aalago.in",
+    "passwordHash": "$2b$10$TLq48dTa0XrH4ynrQe39Nu75hwFzOi1tUB1gnF7MoVehaa1dufF4G"
+  },
+  "meta": {
+    "mysqlSeedMigrated": true
+  }
+}
